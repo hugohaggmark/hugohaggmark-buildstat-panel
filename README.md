@@ -1,1 +1,1 @@
-# grafana-buildstat-panel
+# hugohaggmark-buildstat-panel
